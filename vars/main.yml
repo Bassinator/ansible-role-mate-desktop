@@ -1,0 +1,9 @@
+---
+os_packages:
+  - '@X Window System'
+  - '@^MATE Desktop'
+  - 'python-devel'
+  - 'python-pip'
+
+pip_packages:
+  - 'psutil'
