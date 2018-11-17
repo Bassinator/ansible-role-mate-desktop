@@ -1,6 +1,6 @@
 env:
   global:
-    - ROLE_NAME: simplehttp
+    - ROLE_NAME: mate-desktop 
   matrix:
     - distro: centos7
       init: /usr/lib/systemd/systemd
