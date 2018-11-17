@@ -4,6 +4,7 @@ os_packages:
   - '@^MATE Desktop'
   - 'python-devel'
   - 'python-pip'
+  - 'gcc'
 
 pip_packages:
   - 'psutil'
