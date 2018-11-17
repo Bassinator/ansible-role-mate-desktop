@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - bassinator.mate-desktop/
+    - bassinator.mate_desktop

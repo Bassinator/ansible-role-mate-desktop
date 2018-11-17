@@ -1,4 +1,4 @@
-# Ansible Role: mate-desktop
+# Ansible Role: mate_desktop
 
 [![Build Status](https://travis-ci.com/Bassinator/ansible-role-mate-desktop.svg?branch=master)](https://travis-ci.com/Bassinator/ansible-role-mate-desktop)
 
@@ -22,7 +22,7 @@ None.
     - hosts: all
       roles:
          - role:
-           bassinator.mate-desktop
+           bassinator.mate_desktop
 
 ## License
 
