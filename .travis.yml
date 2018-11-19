@@ -4,7 +4,7 @@ services: docker
 
 env:
   global:
-    - ROLE_NAME: mate_desktop
+    - ROLE_NAME: mate-desktop
   matrix:
     - distro: centos7
       init: /usr/lib/systemd/systemd
